@@ -7,7 +7,10 @@
 [<img height="30" src = "https://www.oiml.org/en/ressources/logos/linkedin-icon-small.png/@@images/image.png">][linkedin] 
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-## I'm student at UCSC majoring in Computer Science
+## A little about me-
+
+- I'm student at UCSC majoring in Computer Science
+- The repositories contain some of my work (both ongoing and closed)
 
 [website]: https://amaan784.github.io/
 [linkedin]: https://www.linkedin.com/in/amaansheikh21/
@@ -20,4 +23,3 @@
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaan784&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Credits for the README: [Python Engineer](https://github.com/python-engineer)
