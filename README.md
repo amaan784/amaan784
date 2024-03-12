@@ -9,7 +9,7 @@
 
 ## A little about me-
 
-- I'm student at UCSC majoring in Computer Science
+- I'm a recent Computer Science grad from UCSC
 - The repositories contain some of my work (both ongoing and closed)
 
 [website]: https://amaan784.github.io/
