@@ -4,8 +4,8 @@
 
 # Hi I am Amaan
 
-[<img height="30" src = "https://www.oiml.org/en/ressources/logos/linkedin-icon-small.png/@@images/image.png">][linkedin] 
-[<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+Linkedin: [<img height="30" src = "https://www.oiml.org/en/ressources/logos/linkedin-icon-small.png/@@images/image.png">][linkedin] 
+Website: [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 ## A little about me-
 
