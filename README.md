@@ -4,7 +4,7 @@
 
 # Hi I am Amaan
 
-Website: [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+Website: [<img height="30" src="https://static.vecteezy.com/system/resources/thumbnails/003/731/316/small/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg" />][website]
 Linkedin: [<img height="30" src = "https://www.oiml.org/en/ressources/logos/linkedin-icon-small.png/@@images/image.png">][linkedin] 
 Devpost: [<img height="30" src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" />][devpost]
 Kaggle: [<img height="30" src = "https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png">][kaggle] 
