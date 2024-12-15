@@ -8,7 +8,7 @@ Website: [<img height="30" src="https://static.vecteezy.com/system/resources/thu
 Linkedin: [<img height="30" src = "https://www.oiml.org/en/ressources/logos/linkedin-icon-small.png/@@images/image.png">][linkedin] 
 Devpost: [<img height="30" src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" />][devpost]
 Kaggle: [<img height="30" src = "https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png">][kaggle] 
-
+FastPages: [<img height="30" src = "https://github.com/fastai/logos/blob/main/fastai_small.png">][fastpages] 
 
 ## A little about me-
 
@@ -19,6 +19,7 @@ Kaggle: [<img height="30" src = "https://static-00.iconduck.com/assets.00/kaggle
 [linkedin]: https://www.linkedin.com/in/amaansheikh21/
 [devpost]: https://devpost.com/amaan784?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 [kaggle]: https://www.kaggle.com/amaan784
+[fastpages]: https://amaan784.github.io/fastai-fastpages-template/
 
 
 
