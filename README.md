@@ -12,7 +12,8 @@ FastPages: [<img height="30" src = "https://github.com/fastai/logos/blob/main/fa
 
 ## A little about me-
 
-- I'm a recent Computer Science grad from UCSC
+- I'm a current Computer Science grad student at Columbia University
+- I'm a Computer Science grad from UCSC
 - The repositories contain some of my work and tech explorations and testing (both ongoing and closed)
 
 [website]: https://amaan784.github.io/
