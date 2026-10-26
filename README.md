@@ -1,34 +1,51 @@
-# amaan784
+## Hi, I'm Amaan
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+Machine learning and software engineer finishing an M.S. in Computer Science (Machine Learning track) at Columbia University. Graduating December 2026 and open to full-time roles. Previously an Applied AI Scientist Intern at ZS and a Software Engineer at Kenvue.
 
-# Hi I am Amaan
+[![Website](https://img.shields.io/badge/Website-27408B?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTYuMzYgMTRjLjA4LS42Ni4xNC0xLjMyLjE0LTJzLS4wNi0xLjM0LS4xNC0yaDMuMzhjLjE2LjY0LjI2IDEuMzEuMjYgMnMtLjEgMS4zNi0uMjYgMm0tNS4xNSA1LjU2Yy42LTEuMTEgMS4wNi0yLjMxIDEuMzgtMy41NmgyLjk1YTguMDMgOC4wMyAwIDAgMS00LjMzIDMuNTZNMTQuMzQgMTRIOS42NmMtLjEtLjY2LS4xNi0xLjMyLS4xNi0ycy4wNi0xLjM1LjE2LTJoNC42OGMuMDkuNjUuMTYgMS4zMi4xNiAycy0uMDcgMS4zNC0uMTYgMk0xMiAxOS45NmMtLjgzLTEuMi0xLjUtMi41My0xLjkxLTMuOTZoMy44MmMtLjQxIDEuNDMtMS4wOCAyLjc2LTEuOTEgMy45Nk04IDhINS4wOEE3LjkyIDcuOTIgMCAwIDEgOS40IDQuNDRDOC44IDUuNTUgOC4zNSA2Ljc1IDggOG0tMi45MiA4SDhjLjM1IDEuMjUuOCAyLjQ1IDEuNCAzLjU2QTggOCAwIDAgMSA1LjA4IDE2bS0uODItMkM0LjEgMTMuMzYgNCAxMi42OSA0IDEycy4xLTEuMzYuMjYtMmgzLjM4Yy0uMDguNjYtLjE0IDEuMzItLjE0IDJzLjA2IDEuMzQuMTQgMk0xMiA0LjAzYy44MyAxLjIgMS41IDIuNTQgMS45MSAzLjk3aC0zLjgyYy40MS0xLjQzIDEuMDgtMi43NyAxLjkxLTMuOTdNMTguOTIgOGgtMi45NWExNS43IDE1LjcgMCAwIDAtMS4zOC0zLjU2YzEuODQuNjMgMy4zNyAxLjkgNC4zMyAzLjU2TTEyIDJDNi40NyAyIDIgNi41IDIgMTJhMTAgMTAgMCAwIDAgMTAgMTBhMTAgMTAgMCAwIDAgMTAtMTBBMTAgMTAgMCAwIDAgMTIgMiIvPjwvc3ZnPg==&logoColor=white)](https://amaan784.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTkgM2EyIDIgMCAwIDEgMiAydjE0YTIgMiAwIDAgMS0yIDJINWEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMnptLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMzIgMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTN6TTYuODggOC41NmExLjY4IDEuNjggMCAwIDAgMS42OC0xLjY4YzAtLjkzLS43NS0xLjY5LTEuNjgtMS42OWExLjY5IDEuNjkgMCAwIDAtMS42OSAxLjY5YzAgLjkzLjc2IDEuNjggMS42OSAxLjY4bTEuMzkgOS45NHYtOC4zN0g1LjV2OC4zN3oiLz48L3N2Zz4=&logoColor=white)](https://www.linkedin.com/in/amaansheikh21/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=bv7hfH8AAAAJ&hl=en)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/amaan784)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/amaan784)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/amaan784)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaan784@gmail.com)
 
-Website: [<img height="30" src="https://static.vecteezy.com/system/resources/thumbnails/003/731/316/small/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg" />][website]
-Linkedin: [<img height="30" src = "https://www.oiml.org/en/ressources/logos/linkedin-icon-small.png/@@images/image.png">][linkedin] 
-Devpost: [<img height="30" src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" />][devpost]
-Kaggle: [<img height="30" src = "https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png">][kaggle] 
-FastPages: [<img height="30" src = "https://github.com/fastai/logos/blob/main/fastai_small.png">][fastpages] 
+### Highlights
 
-## A little about me-
+- 🏆 **Best Use of Hugging Face** at the Mistral Worldwide Hackathon, for [ShadowVerse](https://github.com/exploring-curiosity/ShadowVerse)
+- 📄 **Co-author** of [Beyond Static Leaderboards](https://arxiv.org/abs/2606.19704) (under review at ACL) and a [paper](https://aiche.confex.com/aiche/2026/meetingapp.cgi/Paper/737307) at the 2026 AIChE Annual Meeting
+- ⚡ **About 2x lower VLM latency** with INT4 quantization on IBM AssetOpsBench ([code](https://github.com/amaan784/hpml-final-project))
+- 🛡️ **AI safety:** Advanced Technical Fellow with the Columbia AI Alignment Club
 
-- I'm a current Computer Science grad student at Columbia University
-- I'm a Computer Science graduate from UCSC
-- The repositories contain some of my work and tech explorations and testing (both ongoing and closed)
+### Tech stack
 
-[website]: https://amaan784.github.io/
-[linkedin]: https://www.linkedin.com/in/amaansheikh21/
-[devpost]: https://devpost.com/amaan784?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
-[kaggle]: https://www.kaggle.com/amaan784
-[fastpages]: https://amaan784.github.io/fastai-fastpages-template/
+**ML and deep learning**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
+**LLMs and agents**<br>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 
+**Data**<br>
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-## My GitHub Stats 💻
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaan784&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)-->
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaan784&theme=dracula&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+**Cloud and apps**<br>
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTMuMDUgNC4yNEw2LjU2IDE4LjA1TDIgMThsNS4wOS04Ljc2em0uNyAxLjA5TDIyIDE5Ljc2SDYuNzRsOS4zLTEuNjZsLTQuODctNS43OXoiLz48L3N2Zz4=&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNNy42NCAxMC4zOGMwIC4yNS4wMi40NS4wNy42MmMuMDUuMTIuMTIuMjguMjEuNDZjLjA0LjA0LjA1LjEuMDUuMTVjMCAuMDctLjA0LjEzLS4xMy4ybC0uNDIuMjhjLS4wNi4wNC0uMTIuMDYtLjE3LjA2Yy0uMDcgMC0uMTMtLjA0LS4yLS4xYy0uMDktLjEtLjE3LS4yLS4yNC0uMzFjLS4wNi0uMTEtLjEzLS4yNC0uMi0uMzljLS41Mi42MS0xLjE3LjkyLTEuOTYuOTJjLS41NiAwLTEtLjE2LTEuMzMtLjQ4Yy0uMzItLjMyLS40OS0uNzUtLjQ5LTEuMjljMC0uNTUuMi0xIC42LTEuMzZjLjQxLS4zNC45NS0uNTIgMS42My0uNTJjLjIzIDAgLjQ0LjAyLjcxLjA2Yy4yMy4wMy41LjA4Ljc2LjE0di0uNDhjMC0uNTEtLjEtLjg0LS4zMS0xLjA3Yy0uMjItLjIxLS41Ny0uMy0xLjA4LS4zYy0uMjQgMC0uNDguMDMtLjcyLjA4Yy0uMjUuMDYtLjQ5LjEzLS43Mi4yM2MtLjExLjA0LS4yLjA3LS4yMy4wOGMtLjA1LjAyLS4wOC4wMi0uMTEuMDJjLS4wOSAwLS4xNC0uMDYtLjE0LS4ydi0uMzNjMC0uMS4wMS0uMTguMDUtLjIzcS4wNDUtLjA3NS4xOC0uMTJjLjI0LS4xNC41MS0uMjQuODQtLjMyYTQgNCAwIDAgMSAxLjA0LS4xM3ExLjE4NSAwIDEuNzQuNTRjLjM3LjM2LjU1LjkxLjU1IDEuNjR2Mi4xNXptLTIuNyAxLjAyYy4yMiAwIC40NC0uMDQuNjgtLjEycy40NS0uMjMuNjMtLjQzYy4xMS0uMTMuMTktLjI3LjI1LS40M2MwLS4xNi4wNS0uMzUuMDUtLjU4di0uMjdjLS4yLS4wNy0uNC0uMDctLjYyLS4xMmE3IDcgMCAwIDAtLjYyLS4wNGMtLjQ1IDAtLjc3LjA5LS45OS4yN3MtLjMyLjQzLS4zMi43NmMwIC4zMi4wNy41Ni4yNC43MWMuMTYuMTcuMzkuMjUuNy4yNW01LjM0LjcxYS42LjYgMCAwIDEtLjI4LS4wNmMtLjAzLS4wNS0uMDgtLjE0LS4xMi0uMjZMOC4zMiA2LjY1Yy0uMDQtLjE1LS4wNi0uMjItLjA2LS4yN2MwLS4xMS4wNS0uMTcuMTYtLjE3aC42NWMuMTMgMCAuMjIuMDIuMjYuMDdjLjA2LjA0LjEuMTMuMTQuMjZsMS4xMSA0LjRsMS4wNC00LjRjLjAzLS4xMy4wNy0uMjIuMTMtLjI2Yy4wNS0uMDQuMTQtLjA3LjI1LS4wN2guNTVjLjEyIDAgLjIxLjAyLjI2LjA3Yy4wNS4wNC4xLjEzLjEzLjI2TDE0IDExbDEuMTQtNC40NmMuMDQtLjEzLjA5LS4yMi4xMy0uMjZjLjA2LS4wNC4xNC0uMDcuMjYtLjA3aC42MmMuMTEgMCAuMTcuMDYuMTcuMTdjMCAuMDMtLjAxLjA3LS4wMi4xMmMwIDAtLjAyLjA4LS4wNC4xNWwtMS42MSA1LjE0Yy0uMDQuMTQtLjA4LjIxLS4xNS4yNmMtLjA0LjA0LS4xMy4wNy0uMjQuMDdoLS41N2MtLjEzIDAtLjE5LS4wMi0uMjctLjA3YS40NS40NSAwIDAgMS0uMTItLjI2TDEyLjI3IDcuNWwtMS4wMyA0LjI4cS0uMDQ1LjE5NS0uMTIuMjdhLjUuNSAwIDAgMS0uMjcuMDZ6bTguNTUuMThjLS4zMyAwLS43LS4wNC0xLjAzLS4xMnMtLjU5LS4xNy0uNzYtLjI2YS41LjUgMCAwIDEtLjIxLS4xOWEuNC40IDAgMCAxLS4wNC0uMTh2LS4zNGMwLS4xNC4wNS0uMi4xNS0uMmguMTJjLjA0IDAgLjEuMDUuMTcuMDhjLjIyLjEuNDcuMTguNzMuMjNjLjI3LjA1LjU0LjA4Ljc5LjA4Yy40MiAwIC43NS0uMDcuOTctLjIyYy4yMy0uMTcuMzUtLjM2LjM1LS42M2MwLS4xOS0uMDctLjM0LS4xOC0uNDdjLS4xMi0uMTItLjM1LS4yNC0uNjctLjM0bC0uOTctLjNjLS40OC0uMTYtLjg0LS4zOC0xLjA2LS42OGExLjU4IDEuNTggMCAwIDEtLjMzLS45N2MwLS4yOC4wNi0uNTIuMTgtLjczYy4xMi0uMjIuMjgtLjQuNDYtLjU1Yy4yMi0uMTUuNDQtLjI2LjcxLS4zNHEuMzktLjEyLjg0LS4xMnEuMjEgMCAuNDUuMDNjLjE0LjAyLjI4LjA1LjQyLjA3Yy4xNC4wNC4yNi4wNy4zOC4xMXMuMi4wOC4yOC4xMmMuMDkuMDUuMTYuMS4yLjE2cy4wNi4xMy4wNi4yMnYuMzJxMCAuMjEtLjE1LjIxYy0uMDUgMC0uMTQtLjAzLS4yNi0uMDhjLS4zNy0uMTctLjgtLjI2LTEuMjctLjI2Yy0uMzggMC0uNjYuMDYtLjg5LjE5Yy0uMi4xMi0uMzEuMzItLjMxLjU5YzAgLjE5LjA3LjM1LjIuNDdjLjEzLjEzLjM4LjI1LjczLjM3bC45NS4zYy40OC4xNC44Mi4zNiAxLjAzLjY0cS4zLjQwNS4zLjkzYzAgLjI4LS4wNi41NC0uMTcuNzdjLS4xMi4yMi0uMjguNDItLjUuNThjLS4xOS4xNy0uNDQuMjktLjcyLjM4cy0uNjIuMTMtLjk1LjEzbTEuMjUgMy4yNEMxNy44OSAxNy4xNCAxNC43MSAxOCAxMiAxOGMtMy44NSAwLTcuMy0xLjQyLTkuOTEtMy43N2MtLjIxLS4xOS0uMDItLjQ0LjIzLS4yOWMyLjgyIDEuNjMgNi4yOSAyLjYyIDkuODkgMi42MmMyLjQzIDAgNS4xLS41IDcuNTUtMS41NmMuMzctLjE1LjY4LjI2LjMyLjUzTTIxIDE0LjVjLS4yOS0uMzctMS44Ni0uMTgtMi41Ny0uMWMtLjIxLjAzLS4yNC0uMTYtLjA1LS4zYzEuMjUtLjg3IDMuMzEtLjYgMy41NC0uMzNjLjI0LjMtLjA2IDIuMzYtMS4yMyAzLjM0Yy0uMTkuMTUtLjM2LjA3LS4yOC0uMTFjLjI3LS42OC44Ni0yLjE2LjU5LTIuNSIvPjwvc3ZnPg==&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaan784&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
+Selected projects are pinned below. More projects and publications on my [website](https://amaan784.github.io/projects).
